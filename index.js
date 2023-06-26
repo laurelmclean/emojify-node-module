@@ -7,7 +7,7 @@ const emojiMappings = {
     laugh: "😂",
     fire: "🔥",
     star: "⭐️",
-    baloon: "🎈",
+    balloon: "🎈",
     cool: "😎",
     angel: "😇",
     nerd: "🤓",
@@ -41,7 +41,7 @@ const emojiMappings = {
     wine: "🍷",
 };
 
-function emojify(text) {
+function emojified(text) {
     let emojifiedText = text;
 
     for (const keyword in emojiMappings) {
@@ -54,5 +54,5 @@ function emojify(text) {
 }
 
 module.exports = {
-    emojify
+    emojified
 };

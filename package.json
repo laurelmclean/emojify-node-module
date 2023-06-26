@@ -1,12 +1,23 @@
 {
-  "name": "emojify",
+  "name": "emojified.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "replaces certain keywords with corresponding emojis",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParulK-bhardwaj/string-npm.git "
+  },
+  "keywords": [
+    "emoji",
+    "convert strings to emojis"
+  ],
+  "author": "Laurel McLean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurelmclean/emojify-node-module/issues"
+  },
+  "homepage": "https://github.com/laurelmclean/emojify-node-module#readme"
 }
