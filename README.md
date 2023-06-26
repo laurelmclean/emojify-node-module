@@ -1,5 +1,11 @@
 # Emojified.js
 
+[![npm version](https://img.shields.io/npm/v/emojified.js.svg)](https://www.npmjs.com/package/emojified.js)
+
+[![npm downloads](https://img.shields.io/npm/dt/emojified.js.svg)](https://www.npmjs.com/package/emojified.js)
+
+[NPM Package](https://www.npmjs.com/package/emojified.js)
+
 ## Description:
 The "Emojified.js" package allows you to express your emotions with emojis effortlessly. It takes a string as input and replaces certain keywords with corresponding emojis, adding a touch of fun and visual representation to your text.
 

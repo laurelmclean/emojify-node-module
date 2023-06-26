@@ -1,6 +1,6 @@
 {
   "name": "emojified.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replaces certain keywords with corresponding emojis",
   "main": "index.js",
   "scripts": {
