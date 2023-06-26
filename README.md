@@ -5,7 +5,7 @@ The "Emojified.js" package allows you to express your emotions with emojis effor
 
 ## Installation:
 ```
-npm install emojify
+npm install emojified.js
 ```
 
 ## Usage:
