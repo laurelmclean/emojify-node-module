@@ -16,7 +16,7 @@ npm install emojified.js
 
 ## Usage:
 ```javascript
-const { emojified } = require('emojified');
+const { emojified } = require('emojified.js');
 
 console.log(emojified('Im so happy with the results!'));
 // Output: "I'm so 😊 with the results!"
