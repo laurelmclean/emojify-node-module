@@ -1,7 +1,7 @@
 # Emojified.js
 
 ## Description:
-The "Emojified.js" package allows you to express your emotions with emojis effortlessly. It takes a string as input and replaces certain keywords or phrases with corresponding emojis, adding a touch of fun and visual representation to your text.
+The "Emojified.js" package allows you to express your emotions with emojis effortlessly. It takes a string as input and replaces certain keywords with corresponding emojis, adding a touch of fun and visual representation to your text.
 
 ## Installation:
 ```
